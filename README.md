@@ -275,9 +275,8 @@ Available themes.
 
 ### flat
 
-```
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat
-```
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord
+
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/92325601-039b9300-f087-11ea-983a-fce8133549ee.png">
@@ -557,9 +556,8 @@ You can turn the background transparent.\
 `Available value: boolean type (true or false)`\
 `Default: no-bg=false`
 
-```
 https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true
-```
+
 
 <p align="center">
   <img width="969" src="https://github.com/user-attachments/assets/32d3b63b-7845-42cb-b71c-31abaa673bcb">
@@ -571,9 +569,8 @@ You can hide the frames around the trophies.\
 `Available value: boolean type (true or false)`\
 `Default: no-frame=false`
 
-```
 https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
-```
+
 
 <p align="center">
   <img width="936" src="https://github.com/user-attachments/assets/54de15a3-d907-4a50-8117-170aae74d1cd">
