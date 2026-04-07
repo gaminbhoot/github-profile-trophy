@@ -73,9 +73,8 @@ These are endpoints provided by volunteers. Please use these in moderation.
 Add the following code to your readme. When pasting the code into your profile's
 readme, change the `?username=` value to your GitHub's username.
 
-```
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-```
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gaminbhoot)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
